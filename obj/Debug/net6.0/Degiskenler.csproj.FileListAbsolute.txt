@@ -1,0 +1,5 @@
+C:\Users\Poseidon\Desktop\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\Degiskenler\obj\Debug\net6.0\Degiskenler.csproj.CoreCompileInputs.cache
